@@ -1,0 +1,196 @@
+Experiment: frame_bundle-20250502-1120
+Bundle Path: data/occlusion-main/digger/frame_bundle.npz
+PSNR2: 34.41 dB
+SSIM2: 0.8399
+Grayscale PSNR1: 37.82 dB
+Grayscale SSIM1: 0.9490
+==================================================
+Experiment: frame_bundle-20250502-1127
+Bundle Path: data/occlusion-main/door/frame_bundle.npz
+PSNR2: 33.98 dB
+SSIM2: 0.8456
+Grayscale PSNR1: 35.20 dB
+Grayscale SSIM1: 0.9029
+==================================================
+Experiment: frame_bundle-20250502-1134
+Bundle Path: data/occlusion-main/hallway/frame_bundle.npz
+PSNR2: 34.15 dB
+SSIM2: 0.7633
+Grayscale PSNR1: 38.12 dB
+Grayscale SSIM1: 0.9311
+==================================================
+Experiment: frame_bundle-20250502-1141
+Bundle Path: data/occlusion-main/table/frame_bundle.npz
+PSNR2: 36.11 dB
+SSIM2: 0.8721
+Grayscale PSNR1: 39.56 dB
+Grayscale SSIM1: 0.9626
+==================================================
+Experiment: frame_bundle-20250502-1148
+Bundle Path: data/occlusion-supp/alexander/frame_bundle.npz
+PSNR2: 35.84 dB
+SSIM2: 0.8524
+Grayscale PSNR1: 39.69 dB
+Grayscale SSIM1: 0.9587
+==================================================
+Experiment: frame_bundle-20250502-1154
+Bundle Path: data/occlusion-supp/church/frame_bundle.npz
+PSNR2: 36.07 dB
+SSIM2: 0.8770
+Grayscale PSNR1: 38.90 dB
+Grayscale SSIM1: 0.9595
+==================================================
+Experiment: frame_bundle-20250502-1201
+Bundle Path: data/occlusion-supp/pipes/frame_bundle.npz
+PSNR2: 35.13 dB
+SSIM2: 0.8572
+Grayscale PSNR1: 37.75 dB
+Grayscale SSIM1: 0.9438
+==================================================
+Experiment: frame_bundle-20250502-1208
+Bundle Path: data/occlusion-supp/river/frame_bundle.npz
+PSNR2: 31.22 dB
+SSIM2: 0.6818
+Grayscale PSNR1: 33.22 dB
+Grayscale SSIM1: 0.8519
+==================================================
+Experiment: frame_bundle-20250502-1215
+Bundle Path: data/occlusion-wild/balcony/frame_bundle.npz
+PSNR2: 36.36 dB
+SSIM2: 0.8945
+Grayscale PSNR1: 40.45 dB
+Grayscale SSIM1: 0.9720
+==================================================
+Experiment: frame_bundle-20250502-1221
+Bundle Path: data/occlusion-wild/fencegarden/frame_bundle.npz
+PSNR2: 32.45 dB
+SSIM2: 0.8402
+Grayscale PSNR1: 34.94 dB
+Grayscale SSIM1: 0.9293
+==================================================
+Experiment: frame_bundle-20250502-1228
+Bundle Path: data/occlusion-wild/orangeplanter/frame_bundle.npz
+PSNR2: 34.82 dB
+SSIM2: 0.8144
+Grayscale PSNR1: 38.61 dB
+Grayscale SSIM1: 0.9466
+==================================================
+Experiment: frame_bundle-20250502-1235
+Bundle Path: data/reflection-main/fox/frame_bundle.npz
+PSNR2: 37.94 dB
+SSIM2: 0.9092
+Grayscale PSNR1: 42.18 dB
+Grayscale SSIM1: 0.9696
+==================================================
+Experiment: frame_bundle-20250502-1242
+Bundle Path: data/reflection-main/hydrant/frame_bundle.npz
+PSNR2: 36.70 dB
+SSIM2: 0.8963
+Grayscale PSNR1: 39.10 dB
+Grayscale SSIM1: 0.9613
+==================================================
+Experiment: frame_bundle-20250502-1249
+Bundle Path: data/reflection-main/pinecones/frame_bundle.npz
+PSNR2: 39.00 dB
+SSIM2: 0.9220
+Grayscale PSNR1: 42.88 dB
+Grayscale SSIM1: 0.9766
+==================================================
+Experiment: frame_bundle-20250502-1256
+Bundle Path: data/reflection-main/testpage/frame_bundle.npz
+PSNR2: 35.77 dB
+SSIM2: 0.7835
+Grayscale PSNR1: 43.24 dB
+Grayscale SSIM1: 0.9706
+==================================================
+Experiment: frame_bundle-20250502-1302
+Bundle Path: data/reflection-supp/leaves/frame_bundle.npz
+PSNR2: 36.50 dB
+SSIM2: 0.8409
+Grayscale PSNR1: 41.35 dB
+Grayscale SSIM1: 0.9626
+==================================================
+Experiment: frame_bundle-20250502-1309
+Bundle Path: data/reflection-supp/map/frame_bundle.npz
+PSNR2: 41.09 dB
+SSIM2: 0.9418
+Grayscale PSNR1: 45.40 dB
+Grayscale SSIM1: 0.9847
+==================================================
+Experiment: frame_bundle-20250502-1316
+Bundle Path: data/reflection-supp/plaque/frame_bundle.npz
+PSNR2: 36.23 dB
+SSIM2: 0.8455
+Grayscale PSNR1: 41.93 dB
+Grayscale SSIM1: 0.9664
+==================================================
+Experiment: frame_bundle-20250502-1323
+Bundle Path: data/reflection-supp/starfish/frame_bundle.npz
+PSNR2: 35.53 dB
+SSIM2: 0.7747
+Grayscale PSNR1: 43.00 dB
+Grayscale SSIM1: 0.9691
+==================================================
+Experiment: frame_bundle-20250502-1330
+Bundle Path: data/reflection-wild/painting/frame_bundle.npz
+PSNR2: 32.59 dB
+SSIM2: 0.6109
+Grayscale PSNR1: 38.59 dB
+Grayscale SSIM1: 0.9188
+==================================================
+Experiment: frame_bundle-20250502-1338
+Bundle Path: data/reflection-wild/poster/frame_bundle.npz
+PSNR2: 38.16 dB
+SSIM2: 0.8977
+Grayscale PSNR1: 42.67 dB
+Grayscale SSIM1: 0.9789
+==================================================
+Experiment: frame_bundle-20250502-1345
+Bundle Path: data/reflection-wild/window/frame_bundle.npz
+PSNR2: 35.58 dB
+SSIM2: 0.8800
+Grayscale PSNR1: 38.92 dB
+Grayscale SSIM1: 0.9606
+==================================================
+Experiment: frame_bundle-20250502-1352
+Bundle Path: data/extras/dehaze-book/frame_bundle.npz
+PSNR2: 41.33 dB
+SSIM2: 0.9379
+Grayscale PSNR1: 45.63 dB
+Grayscale SSIM1: 0.9857
+==================================================
+Experiment: frame_bundle-20250502-1358
+Bundle Path: data/extras/segmentation-branch/frame_bundle.npz
+PSNR2: 32.84 dB
+SSIM2: 0.6816
+Grayscale PSNR1: 37.03 dB
+Grayscale SSIM1: 0.9140
+==================================================
+Experiment: frame_bundle-20250502-1406
+Bundle Path: data/extras/shadow-bookcase/frame_bundle.npz
+PSNR2: 34.06 dB
+SSIM2: 0.7095
+Grayscale PSNR1: 40.59 dB
+Grayscale SSIM1: 0.9531
+==================================================
+Experiment: frame_bundle-20250502-1412
+Bundle Path: data/extras/shadow-head/frame_bundle.npz
+PSNR2: 35.92 dB
+SSIM2: 0.7659
+Grayscale PSNR1: 43.35 dB
+Grayscale SSIM1: 0.9678
+==================================================
+Experiment: frame_bundle-20250502-1418
+Bundle Path: data/extras/shadow-textbook/frame_bundle.npz
+PSNR2: 37.82 dB
+SSIM2: 0.8854
+Grayscale PSNR1: 42.82 dB
+Grayscale SSIM1: 0.9772
+==================================================
+Experiment: frame_bundle-20250502-1424
+Bundle Path: data/extras/shadow-w/frame_bundle.npz
+PSNR2: 34.85 dB
+SSIM2: 0.8281
+Grayscale PSNR1: 38.98 dB
+Grayscale SSIM1: 0.9498
+==================================================

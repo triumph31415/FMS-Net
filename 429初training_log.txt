@@ -1,0 +1,126 @@
+Experiment: occ_cx
+Bundle Path: data/occlusion-main/door/frame_bundle.npz
+PSNR2: 34.10 dB
+SSIM2: 0.8697
+Grayscale PSNR1: 35.28 dB
+Grayscale SSIM1: 0.9216
+==================================================
+Experiment: occ_cx
+Bundle Path: data/occlusion-main/door/frame_bundle.npz
+PSNR2: 34.07 dB
+SSIM2: 0.8694
+Grayscale PSNR1: 35.24 dB
+Grayscale SSIM1: 0.9212
+==================================================
+Experiment: occ_cx
+Bundle Path: data/occlusion-supp/alexander/frame_bundle.npz
+PSNR2: 27.75 dB
+SSIM2: 0.5732
+Grayscale PSNR1: 27.80 dB
+Grayscale SSIM1: 0.6488
+==================================================
+Experiment: frame_bundle-20250428-2219
+Bundle Path: data/reflection-main/pinecones/frame_bundle.npz
+PSNR2: 28.60 dB
+SSIM2: 0.6925
+Grayscale PSNR1: 28.59 dB
+Grayscale SSIM1: 0.7437
+==================================================
+Experiment: frame_bundle-20250428-2226
+Bundle Path: data/reflection-main/hydrant/frame_bundle.npz
+PSNR2: 27.48 dB
+SSIM2: 0.0027
+Grayscale PSNR1: 27.46 dB
+Grayscale SSIM1: 0.0030
+==================================================
+Experiment: frame_bundle-20250428-2234
+Bundle Path: data/reflection-main/testpage/frame_bundle.npz
+PSNR2: 27.94 dB
+SSIM2: 0.6178
+Grayscale PSNR1: 27.94 dB
+Grayscale SSIM1: 0.7882
+==================================================
+Experiment: frame_bundle-20250428-2241
+Bundle Path: data/reflection-main/fox/frame_bundle.npz
+PSNR2: 28.14 dB
+SSIM2: 0.6695
+Grayscale PSNR1: 28.14 dB
+Grayscale SSIM1: 0.7192
+==================================================
+Experiment: frame_bundle-20250429-0818
+Bundle Path: data/reflection-main/pinecones/frame_bundle.npz
+PSNR2: 28.61 dB
+SSIM2: 0.6921
+Grayscale PSNR1: 28.59 dB
+Grayscale SSIM1: 0.7437
+==================================================
+Experiment: frame_bundle-20250429-0826
+Bundle Path: data/reflection-main/hydrant/frame_bundle.npz
+PSNR2: 27.48 dB
+SSIM2: 0.0027
+Grayscale PSNR1: 27.46 dB
+Grayscale SSIM1: 0.0030
+==================================================
+Experiment: frame_bundle-20250429-0834
+Bundle Path: data/reflection-main/testpage/frame_bundle.npz
+PSNR2: 27.94 dB
+SSIM2: 0.6178
+Grayscale PSNR1: 27.94 dB
+Grayscale SSIM1: 0.7882
+==================================================
+Experiment: frame_bundle-20250429-0841
+Bundle Path: data/reflection-main/fox/frame_bundle.npz
+PSNR2: 28.14 dB
+SSIM2: 0.6695
+Grayscale PSNR1: 28.14 dB
+Grayscale SSIM1: 0.7192
+==================================================
+Experiment: frame_bundle-20250429-0849
+Bundle Path: data/reflection-supp/leaves/frame_bundle.npz
+PSNR2: 27.84 dB
+SSIM2: 0.6698
+Grayscale PSNR1: 27.86 dB
+Grayscale SSIM1: 0.7815
+==================================================
+Experiment: frame_bundle-20250429-0857
+Bundle Path: data/reflection-supp/plaque/frame_bundle.npz
+PSNR2: 35.43 dB
+SSIM2: 0.8273
+Grayscale PSNR1: 39.45 dB
+Grayscale SSIM1: 0.9457
+==================================================
+Experiment: frame_bundle-20250429-0903
+Bundle Path: data/reflection-supp/map/frame_bundle.npz
+PSNR2: 27.48 dB
+SSIM2: 0.0012
+Grayscale PSNR1: 27.44 dB
+Grayscale SSIM1: 0.0013
+==================================================
+Experiment: frame_bundle-20250429-0911
+Bundle Path: data/reflection-supp/starfish/frame_bundle.npz
+PSNR2: 35.39 dB
+SSIM2: 0.7733
+Grayscale PSNR1: 42.38 dB
+Grayscale SSIM1: 0.9673
+==================================================
+Experiment: frame_bundle-20250429-0917
+Bundle Path: data/reflection-wild/poster/frame_bundle.npz
+PSNR2: 27.87 dB
+SSIM2: 0.7473
+Grayscale PSNR1: 27.77 dB
+Grayscale SSIM1: 0.8144
+==================================================
+Experiment: frame_bundle-20250429-0925
+Bundle Path: data/reflection-wild/painting/frame_bundle.npz
+PSNR2: 32.46 dB
+SSIM2: 0.6107
+Grayscale PSNR1: 37.86 dB
+Grayscale SSIM1: 0.9139
+==================================================
+Experiment: frame_bundle-20250429-0932
+Bundle Path: data/reflection-wild/window/frame_bundle.npz
+PSNR2: 34.19 dB
+SSIM2: 0.8636
+Grayscale PSNR1: 36.14 dB
+Grayscale SSIM1: 0.9403
+==================================================
