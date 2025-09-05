@@ -45,25 +45,24 @@ For a full list of training arguments, we recommend looking through the argument
 You can download the long-burst data used in the paper (and extra bonus scenes) via the following links:
 
  1. Main occlusion scenes: [occlusion-main.zip](https://soap.cs.princeton.edu/nsf/data/occlusion-main.zip) (use `scripts/occlusion.sh` to train)
- ![Main Occlusion](.figs/occ-main.png)
+
 
   2. Supplementary occlusion scenes: [occlusion-supp.zip](https://soap.cs.princeton.edu/nsf/data/occlusion-supp.zip) (use `scripts/occlusion.sh` to train)
- ![Supplementary Occlusion](.figs/occ-supp.png)
+
 
    3. In-the-wild occlusion scenes: [occlusion-wild.zip](https://soap.cs.princeton.edu/nsf/data/occlusion-wild.zip) (use `scripts/occlusion-wild.sh` to train)
- ![Wild Occlusion](.figs/occ-wild.png)
+
 
   4. Main reflection scenes: [reflection-main.zip](https://soap.cs.princeton.edu/nsf/data/reflection-main.zip) (use `scripts/reflection.sh` to train)
- ![Main Reflection](.figs/ref-main.png)
+
 
   5. Supplementary reflection scenes: [reflection-supp.zip](https://soap.cs.princeton.edu/nsf/data/reflection-supp.zip) (use `scripts/reflection.sh` to train)
- ![Supplementary Reflection](.figs/ref-supp.png)
+
 
    6. In-the-wild reflection scenes: [reflection-wild.zip](https://soap.cs.princeton.edu/nsf/data/reflection-wild.zip) (use `scripts/reflection-wild.sh` to train)
- ![Wild Reflection](.figs/ref-wild.png)
 
    7. Extra scenes: [extras.zip](https://soap.cs.princeton.edu/nsf/data/extras.zip) (use `scripts/dehaze.sh`, `segmentation.sh`, or `shadow.sh`)
- ![Extras](.figs/extras.png)
+
 
    7. Synthetic validation: [synthetic-validation.zip](https://soap.cs.princeton.edu/nsf/data/synthetic-validation.zip) (use `scripts/reflection.sh` or `occlusion.sh` with flag `--rgb`)
 
