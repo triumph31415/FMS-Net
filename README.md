@@ -1,21 +1,6 @@
 
-# Neural Spline Fields for Burst Image Fusion and Layer Separation
-<a href="https://colab.research.google.com/github/princeton-computational-imaging/NSF/blob/main/tutorial.ipynb" style="text-decoration: none;">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="height:20px;"/>
-</a>
-<a href="https://github.com/Ilya-Muromets/Pani" style="text-decoration: none;">
-  <img src=".figs/pani-badge.svg" alt="Android Capture App" style="height:20px;"/>
-</a>
+# FMS-Net：频率样条网络用于burst图像的分离
 
-This is the official code repository for the CVPR 2024 work: [Neural Spline Fields for Burst Image Fusion and Layer Separation](https://light.princeton.edu/publication/nsf/). If you use parts of this work, or otherwise take inspiration from it, please considering citing our paper:
-```
-@inproceedings{chugunov2024neural,
-  title={Neural spline fields for burst image fusion and layer separation},
-  author={Chugunov, Ilya and Shustin, David and Yan, Ruyu and Lei, Chenyang and Heide, Felix},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={25763--25773},
-  year={2024}
-}
 ```
 
 ## Requirements:
