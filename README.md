@@ -79,8 +79,4 @@ You can download the long-burst data used in the paper (and extra bonus scenes) 
 
 We recommend you download and extract these into the `data/` folder.
 
-## App:
-Want to record your own long-burst data? Check out our Android RAW capture app [Pani!](https://github.com/Ilya-Muromets/Pani)
 
-Good luck have fun,
-Ilya
