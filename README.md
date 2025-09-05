@@ -4,13 +4,13 @@
 ## The core tasks of this project include:
 1. Neural Spline Field Modeling: Training neural networks to lea rn and represent control points of spline curves, thereby modeling complex variations in images such as optical flow and layer transparency caused by camera motion, scene depth, object occlusion, and reflections.
 2. Multiple Application Scenarios: The project provides training scripts for various image processing tasks,including:
-Occlusion Separation: Handles occlusion issues in images, restoring information from obscured regions.
+-Occlusion Separation: Handles occlusion issues in images, restoring information from obscured regions.
 
-Reflection Separation: Removes reflections from images containing them, yielding clear scenes.
+-Reflection Separation: Removes reflections from images containing them, yielding clear scenes.
 
-Shadow Separation: Identifies and eliminates shadows within images.
+-Shadow Separation: Identifies and eliminates shadows within images.
 
-Dehazing and Image Fusion, among others.
+-Dehazing and Image Fusion, among others.
 
 
 ## Requirements:
