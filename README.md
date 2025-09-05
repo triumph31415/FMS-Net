@@ -1,7 +1,6 @@
 
 # FMS-Net：频率样条网络用于burst图像的分离
 
-```
 
 ## Requirements:
 - Code was written in PyTorch 2.0 on an Ubuntu 22.04 machine.
