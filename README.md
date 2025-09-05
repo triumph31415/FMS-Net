@@ -1,5 +1,5 @@
 
-# FMS-Net：频率样条网络用于burst图像的分离
+# FMS-Net：Frequency Spline Networks for Burst Image Separation
 
 
 ## Requirements:
