@@ -1,6 +1,18 @@
 
 # FMS-Net：Frequency Spline Networks for Burst Image Separation
 
+The core tasks of this project include:
+1. Neural Spline Field Modeling: Training neural networks to learn and represent control points of spline curves, thereby modeling complex variations in images such as optical flow and layer transparency caused by camera motion, scene depth, object occlusion, and reflections.
+2. Multiple Application Scenarios: The project provides training scripts for various image processing tasks, including:
+Occlusion Separation: Handles occlusion issues in images, restoring information from obscured regions.
+Reflection Separation: Removes reflections from images containing them, yielding clear scenes.
+Shadow Separation: Identifies and eliminates shadows within images.
+Dehazing and Image Fusion, among others.
+
+
+
+
+Translated with DeepL.com (free version)
 
 ## Requirements:
 - Code was written in PyTorch 2.0 on an Ubuntu 22.04 machine.
